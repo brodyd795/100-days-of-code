@@ -4,8 +4,8 @@
 
 **Today's Progress**: Re-did some of the HTML and started over on the CSS. 
 
-**Thoughts:** Turned out that I really didn't have a firm understanding of the basics of CSS, so I went back to redo some tutorials and took some notes. Visibly, not much progress, but definitely starting to understanding things better now! Here are the (very rough) notes that I took just to jog my own memory for later.
--------
+**Thoughts**: Turned out that I really didn't have a firm understanding of the basics of CSS, so I went back to redo some tutorials and took some notes. Visibly, not much progress, but definitely starting to understanding things better now! Here are the (very rough) notes that I took just to jog my own memory for later.
+
 -div elements take up the full width of their container unless you specify their width, and each div starts on a new 'line' since it is a block-level element, while inline elements (e.g., spans) will only take up as much space as necessary and will stay on the same line as their neighbors
 -rather than setting 'width: 50px' for a div, set 'max-width: 50px' so that the browser won't set a horizontal scroll bar if the window is less than that width (e.g., on mobile devices) --> basically, just set max-width
 
@@ -27,7 +27,7 @@
 -display: inline-block is very useful for navigation links - boxes that sit next to each other
 
 -descendents: use "div p" to affect all ps within the div; use "div > p" to only select immediate p children of the div
--------
+
 
 ### Day 1: May 19, 2019
 
