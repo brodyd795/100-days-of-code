@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 2: May 19, 2019
+### Day 4: May 22, 2019
+
+**Today's Progress**: Finally getting the product landing page looking right! Flexbox skills are developing nicely.
+
+**Thoughts**: It took quite a bit of trial and error, along with reading plenty of online articles, but I'm finally getting the hang of flexbox and overall CSS positioning. Today was quite a bit of a confidence booster after the past two days. Very happy with how it's beginning to look!
+
+### Day 3: May 21, 2019
+
+**Today's Progress**: Kept working on the CSS of the product landing page, began applying flexbox concepts
+
+**Thoughts**: Slowly starting to understand flexbox. Still don't have much to prove for my gains in understanding the CSS, but it's getting there.
+
+### Day 2: May 20, 2019
 
 **Today's Progress**: Re-did some of the HTML and started over on the CSS. 
 
-**Thoughts**: Turned out that I really didn't have a firm understanding of the basics of CSS, so I went back to redo some tutorials and took some notes. Visibly, not much progress, but definitely starting to understanding things better now! Here are the (very rough) notes that I took just to jog my own memory for later.
+**Thoughts**: Turned out that I really didn't have a firm understanding of the basics of CSS, so I went back to redo some tutorials and took some notes. Visibly, not much progress, but definitely starting to understand things better now! Here are the (very rough) notes that I took just to jog my own memory for later.
 
 -div elements take up the full width of their container unless you specify their width, and each div starts on a new 'line' since it is a block-level element, while inline elements (e.g., spans) will only take up as much space as necessary and will stay on the same line as their neighbors
 -rather than setting 'width: 50px' for a div, set 'max-width: 50px' so that the browser won't set a horizontal scroll bar if the window is less than that width (e.g., on mobile devices) --> basically, just set max-width
