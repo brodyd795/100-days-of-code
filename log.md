@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: May 23, 2019
+
+**Today's Progress**: Got most of the positioning figured out with CSS, worked a bit on beautifying the page
+
+**Thoughts**: Flexbox is becoming much more intuitive. Still trying to figure out what color schemes and other styling I want to add to the page. Once this is done, I'll need to work on making it responsive for other widths and devices. 
+
+**Link to work:** https://github.com/brodyd795/productLandingPage-FCC
+
 ### Day 4: May 22, 2019
 
 **Today's Progress**: Finally getting the product landing page looking right! Flexbox skills are developing nicely.
