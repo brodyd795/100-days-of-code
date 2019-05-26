@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 7: May 25, 2019
+
+**Today's Progress**: Started working on a website for my future students in a Computers and Language class to practice their regular expressions. HTML/CSS/JS are really coming along already!
+
+**Thoughts**: Initially tried working with Bootstrap to make it more easily responsive, but I don't think I'm comfortable enough yet with HTML/CSS, so I stuck to plain language to practice this more before moving to Bootstrap. The interface came together pretty quickly, and now I need to work on user authentication, the db, and integrating the regular expression checker to assess my students' learning.
+
+**Link to work**: https://github.com/brodyd795/regex-site
+
+### Day 6: May 24, 2019
+
+**Today's Progress**: Got closer to a final product for my product landing page
+
+**Thoughts**: Now that the HTML and CSS look decent for the screen I'm working on, now I need to work on making it responsive.
+
+**Link to work:** https://github.com/brodyd795/productLandingPage-FCC
+
 ### Day 5: May 23, 2019
 
 **Today's Progress**: Got most of the positioning figured out with CSS, worked a bit on beautifying the page
