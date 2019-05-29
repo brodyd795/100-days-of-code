@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 10: May 28, 2019
+
+**Today's Progress**: Finished authenticating my home budgeting tool!
+
+**Thoughts**: Finally figured out that building the service for the API call is basically identical regardless of the authentication method. I successfully migrated from a client-server authentication (which isn't right for my uses) to authentication between the server and a web application (which does fit my uses). My next step might be to figure out how to most securely store and access credentials on my local machine. 
+
+**Link to work**: https://github.com/brodyd795/accounting
+
+### Day 9: May 27, 2019
+
+**Today's Progress**: Continued node.js tutorial, began working on revised authentication method for my home budgeting tool
+
+**Thoughts**: I'm rather confused about the different methods of authentication for Google APIs (e.g., client-server vs. server-web-application), but reading through the documentation and it's beginning to make more sense.
+
+**Link to work**: https://github.com/brodyd795/accounting
+
+### Day 8: May 26, 2019
+
+**Today's Progress**: Continued working on the HTML/CSS/JS for my regex site, started a node.js tutorial
+
+**Thoughts**: Starting to think about how to get users logged into the site, creating usernames/passwords, authenticating, etc. Seemed like I didn't have much of an idea about how this all works behind the scenes, so a node.js tutorial is seeming to help me to understand all of this.
+
+**Link to work**: https://github.com/brodyd795/regex-site
+
 ### Day 7: May 25, 2019
 
 **Today's Progress**: Started working on a website for my future students in a Computers and Language class to practice their regular expressions. HTML/CSS/JS are really coming along already!
