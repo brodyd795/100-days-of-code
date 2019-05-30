@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 11: May 29, 2019
+
+**Today's Progress**: Began learning about node.js/AJAX/express for sending and processing client form data on a remote server. Also started the basic layout of my Technical Documentation Page.
+
+**Thoughts**: HTML/CSS are becoming easier and easier to implement, but this new issue of processing form data on a server and retrieving the results is a new problem that I'm not sure how to handle. AJAX seems relatively straightforward, but most of the Express tutorials I've found online work with a server created on the local machine, whereas I'm working with a remote server. Planning to continue looking into how AJAX and Express (and Node.js) interact more in the coming days, as this is crucial for the next step in my regex website project. 
+
+**Link to work**: https://github.com/brodyd795/technicalDocumentationPage
+
 ### Day 10: May 28, 2019
 
 **Today's Progress**: Finished authenticating my home budgeting tool!
