@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 12: May 30, 2019
+
+**Today's Progress**: Figured out how to do POST requests using Express.js and Node.js on my remote server
+
+**Thoughts**: After three days of reading online documentation and doing online tutorials (and much confusion), I am finally on track to ipmlement POST requests into my regex site. One lesson I've learned througout this issue is to learn from various sources – find multiple tutorials, multiple docs, read up on stackoverflow questions on the topic, etc., and don't just rely on one "all-in-one" tutorial. Tomorrow I want to restructure my regex site a bit to incorporate EJS views rather than putting all the content on one page, and I also want to add the form elements to implement the POST requests. A rough couple of days, but it's coming together!
+
+**Link to work**: No link available, since I was just playing around with test files, but here's the main bit of code that I put together:
+var express = require('express');
+var app = express();
+var bodyParser = require('body-parser');
+var urlencodedParser = bodyParser.urlencoded({ extended: false});
+app.set('view engine', 'ejs');
+app.get('/', function(req, res){
+  res.render('index');
+});
+app.post('/index', urlencodedParser, function(req, res) {
+  console.log(req.body);
+  var myString = req.body.who;
+  var patt = new RegExp("Rach");
+  var myMatch = patt.test(myString);
+  console.log(myMatch);
+  res.render('index');
+})
+app.listen(3000);
+
 ### Day 11: May 29, 2019
 
 **Today's Progress**: Began learning about node.js/AJAX/express for sending and processing client form data on a remote server. Also started the basic layout of my Technical Documentation Page.
