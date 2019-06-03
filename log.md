@@ -1,5 +1,66 @@
 # 100 Days Of Code - Log
 
+### Day 15: June 2, 2019
+
+**Today's Progress**: Finished the regex tester!
+
+**Thoughts**: After 3 days of work, I finally got the regex tester to work – it now takes a series of regular expressions as input (as prompted by a task description) and returns a final score based on a series of tests. Now I'll incorporate this into the site, and then comes user authentication...
+
+**Link to work**: Can't post the code for security reasons, here is the main logic:
+```javascript
+module.exports = {
+  testRegex: function(input, task) {
+    var regexArr = input.split(/\r?\n/);
+    var task = task;
+
+    var allTests = {dictionary of tests and answers}
+
+    var testStrings = allTests[task]["tests"];
+    var resultStrings = allTests[task]["answers"];
+    var pts = 0;
+    var ptsPoss = testStrings.length;
+    for (let i=0; i<testStrings.length; i++){
+      var testString = testStrings[i];
+      var resultString = resultStrings[i];
+
+      for (let j=0; j<regexArr.length; j++){
+        let regexpStr = regexArr[j];
+        var regexMatch = regexpStr.replace(/s\/(.*?)\/.*?\/\w+$/, "$1");
+        var regexReplace = regexpStr.replace(/s\/.*?\/(.*?)\/\w+$/, "$1");
+        var regexFlags = regexpStr.replace(/s\/.*?\/.*?\/(\w*?)$/, "$1");
+        var realRegex = new RegExp(regexMatch, regexFlags);
+        var testString = testString.replace(realRegex, regexReplace);
+      };
+    if (testString == resultString) {
+      pts++;
+    }
+    var score = (pts/ptsPoss)*100;
+    score = score.toFixed(2);
+    }
+    console.log(pts + "/ " + ptsPoss);
+    console.log("score: " + score);
+    return score;
+  }
+};
+
+```
+
+### Day 14: June 1, 2019
+
+**Today's Progress**: Continued working on logic for regex tester
+
+**Thoughts**: Today I tried linking the Perl code into my JS code so as to not reinvent the wheel, but this doesn't seem to be a very popular method, based on the relative lack of available packages for doing so. I decided that it'd be easier to just continue writing it from scratch in JS. By the end of the day, I finally have a working regex tester! Now I need to make it test against a series of test strings and return a score, link it all up to the rest of the site, and re-work the site using views (as I said I'd do a couple of days ago). 
+
+**Link to work**: Can't post the code for security reasons, but will post the main logic once it's done
+
+### Day 13: May 31, 2019
+
+**Today's Progress**: Starting working on the JS logic for testing regular expressions for accuracy in my regex site
+
+**Thoughts**: Before I started this project, my mentor gave me his code in Perl that accomplishes basically the same task. (He told me to code the site on my own for learning purposes, but gave me the regex testing engine to get started.) After comparing how his code accomplishes the task to how I intend to do it in JS, it seems like the syntax of regular expressions in Perl lends itself to this task better than JS's syntax – interesting! I spent a lot of time dissecting his code to figure out the logic, and I started coding it in JS. Long way to go. 
+
+**Link to work**: Can't post the code for security reasons, but will post the main logic once it's done
+
 ### Day 12: May 30, 2019
 
 **Today's Progress**: Figured out how to do POST requests using Express.js and Node.js on my remote server
