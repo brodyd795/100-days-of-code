@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 16: June 3, 2019
+
+**Today's Progress**: Finished a prototype of the regex interface!
+
+**Thoughts**: Today I separated the site from one page into four separate pages to make the code cleaner and more logical. I also incorporated all of the express.js code into the site to all for get/post requests, and importantly, I make the regex tester work on the interface and post a score to the page using express and ajax. Express is getting more intuitive now, though my understanding of the combination of express and ajax is still a bit shaky. Next steps: saving/retrieving user data, user authentication, sessions, and further styling. It's amazing how far I've come in just 16 days!
+
+**Link to work**: http://brody.linguatorium.com:8080/
+
 ### Day 15: June 2, 2019
 
 **Today's Progress**: Finished the regex tester!
