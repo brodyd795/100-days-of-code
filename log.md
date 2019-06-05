@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 17: June 4, 2019
+
+**Today's Progress**: Configured prototype of user authentication login button
+
+**Thoughts**: I started off assuming that I'd build my own simple authentication system using a JSON object of usernames and passwords, given the low security needs of the project. However, I decided it'd be better to learn how to integrate a real auth system, so I went with auth0 and got started on their site (https://auth0.com/) with their QuickStart tutorial. I downloaded the zip file, followed the instructions, and ran it – worked just fine. The troubles came when I tried to integrate it into my own system. So, I took a step back and created a new bare-bones project with just a login button. It turned out that loading Auth0 via dependencies neglected to include a crucial part of the package that is available through their CDN. Once I figured that out and included it as a src, it worked like a charm. Finally, I made sure it all worked with a view engine. User auth -- like many other things -- turns out to be much more complicated than I initially imagined. But hey – the challenge is good!
+
+**Link to work**: No link available yet, but here's the main chunk of code from today (which goes along with a simple node+express setup with an index.ejs view and a simple login button):
+```javascript
+window.addEventListener('load', function() {
+  var idToken;
+  var accessToken;
+  var expiresAt;
+  var webAuth = new auth0.WebAuth({
+    domain: 'dev-dingel.auth0.com',
+    clientID: 'my-client-id',
+    responseType: 'token id_token',
+    scope: 'openid',
+    redirectUri: window.location.href
+  });
+
+  var loginBtn = document.getElementById('btn-login');
+
+  loginBtn.addEventListener('click', function(e) {
+    e.preventDefault();
+    webAuth.authorize();
+  });
+
+});
+
+```
+
 ### Day 16: June 3, 2019
 
 **Today's Progress**: Finished a prototype of the regex interface!
