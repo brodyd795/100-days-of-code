@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: June 5, 2019
+
+**Today's Progress**: Continued working on user authentication
+
+**Thoughts**: I've got the full auth0 sample page working on my site, though it's still throwing a few errors that I don't quite understand yet. Next step will be figuring out how auth0 maintains user sessions and how I can save/retrieve data during a given user's session. 
+
+**Link to work**: No link for this yet, but I've basically added the code from the auth0 sample to my existing code from yesterday.
+
 ### Day 17: June 4, 2019
 
 **Today's Progress**: Configured prototype of user authentication login button
