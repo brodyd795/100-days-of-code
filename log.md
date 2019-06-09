@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 22: June 9, 2019
+
+**Today's Progress**: Got my regex site online!
+
+**Thoughts**: So excited after today's progress. I fixed the last major styling issues, added some error handling, got everything put on my remote server, fixed the bugs that accompanied that step (mostly old versions of npm and node), and configured the auth system to accept the new domain. It's working! Just a few more bugs to work out before the new semester for my students to use it.
+
+**Link to work**: http://brody.linguatorium.com:3000/
+
 ### Day 21: June 8, 2019
 
 **Today's Progress**: Finished the authentication system, make great progress on templates (Big day!)
