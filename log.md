@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 21: June 8, 2019
+
+**Today's Progress**: Finished the authentication system, make great progress on templates (Big day!)
+
+**Thoughts**: Today's progress was quite satisfying. I finally got the authentication system working (Woo!), I completely shifted over from the EJS to PUG templates, and I'm finally working on error handling for once I can release this project to the wild. I'm so excited! Oh, I also realized there was a bug in my budgeting app, so I fixed that and committed to github. 
+
+**Link to work**: Regex site will be posted by tomorrow! Link to budgeting app update: https://github.com/brodyd795/accounting
+
+### Day 20: June 7, 2019
+
+**Today's Progress**: Continued working on user authentication and changing templating engine
+
+**Thoughts**: User authentication is getting closer, though I had quite a shift involved after I realized I'd need to choose between the EJS templates and the PUG templates that the new auth package was using. I've decided to go with the PUG templates, because the EJS ones were causing quite a few difficulties and PUG seemed easier to manage. This is the second time that I've chosen the wrong type of tutorial while working on a project, so I definitely need to keep this mistake in mind for the future to save time/energy. Templating is seeming pretty useful – I wonder how often it's used in the "real world"? Got closer to a working veresion of the auth system by the end of the day.
+
+**Link to work**: Still no link available... hopefully tomorrow!
+
+### Day 19: June 6, 2019
+
+**Today's Progress**: Continued working on user authentication
+
+**Thoughts**: I realized today that I was using the sample authentication package from the "single web page" application type, while I needed the "regular web application". So, I began moving in this direction, and was able to make the sample package function on my site by the end of the day, though lots more work needs to be put in to make it mesh with my content.
+
+**Link to work**: No link for this yet, but coming soon!
+
 ### Day 18: June 5, 2019
 
 **Today's Progress**: Continued working on user authentication
