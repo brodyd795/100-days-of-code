@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 24: June 12, 2019
+
+**Today's Progress**: Continued working on styling, made some progress, especially on the navbar
+
+**Thoughts**: Happy to say that the navbar is mostly done and has most of the functionality that I originally intended for it to have. Choosing a color scheme can be frustrating, and still haven't found a website for choosing a website-wide color scheme, but will continue looking. Now to add the content to the page...
+
+**Link to work**: https://github.com/brodyd795/technicalDocumentationPage
+
+### Day 23: June 10, 2019
+
+**Today's Progress**: Started working on more styling of my technical documentation page, including the navigation bar
+
+**Thoughts**: CSS is beginning to show its complexity, once again. I'd like to make a sidenav bar that opens/closes and is responsive to different device widths, but not sure how just yet. 
+
+**Link to work**: https://github.com/brodyd795/technicalDocumentationPage
+
 ### Day 22: June 9, 2019
 
 **Today's Progress**: Got my regex site online!
