@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 27: June 15, 2019
+
+**Today's Progress**: Finished the Technical Documentation Page
+
+**Thoughts**: I had the Technical Documentation Page basically finished, but without content, so I added the content to it today, and it's looking pretty good! Since the topic is regular expressions, I might add it as an additional resource for my students when they're learning regex with my regex site next semester.
+
+**Link to work**: 
+
+### Day 26: June 14, 2019
+
+**Today's Progress**: Worked on fixing a bug in my accounting app, added some content to my Technical Documentation Page
+
+**Thoughts**: Crontab is so finnicky about permissions. The environment that it runs in is different from that of the IDE, and therefore it interprets paths and permissions differently. I've detected the bug, and now working on figuring out why Crontab isn't able to open a particular file.
+
+**Link to work**: No link yet, but hopefully I'll have it tomorrow for my Technical Documentation Page!
+
+### Day 25: June 13, 2019
+
+**Today's Progress**: Got the regex site online and partially eliminated the issue of the port number in the URL
+
+**Thoughts**: Had a relative help me edit the config files on my server to add a reverse proxy (using proxy_pass) in Nginx to pass requests to the port number to a URL. Took us quite a while, but eventually figured out that (1) Nginx was expecting Ipv4 instead of the Ipv6 that we were passing to it (or was it the reverse?). It only took one additional parameter in one line of code to fix that issue. (2) SELinux was preventing the server from rendering the html files (I think?), and I'm in the process of fixing that all up. I have very little experience with servers and configs, so this is all very new to me. Learning, though!
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 24: June 12, 2019
 
 **Today's Progress**: Continued working on styling, made some progress, especially on the navbar
