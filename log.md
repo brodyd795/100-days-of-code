@@ -1,12 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 29: June 17, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day 28: June 16, 2019
+
+**Today's Progress**: Added Black Box functionality to Regex site
+
+**Thoughts**: Found the very user-friendly Nodemailer module for sending emails in JS. Super easy to incorporate into my regex site for a Black Box functionality (where students can send an anonymous message to my email). Pug templates made it pretty easy to add the new page to the site as well.
+
+**Link to work**: Will take some time soon to push the updated/new files to the server
+
 ### Day 27: June 15, 2019
 
 **Today's Progress**: Finished the Technical Documentation Page
 
 **Thoughts**: I had the Technical Documentation Page basically finished, but without content, so I added the content to it today, and it's looking pretty good! Since the topic is regular expressions, I might add it as an additional resource for my students when they're learning regex with my regex site next semester.
 
-**Link to work**: 
+**Link to work**: Need to get better about pushing/committing to github.... link coming soon!
 
 ### Day 26: June 14, 2019
 
