@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 30: June 18, 2019
+
+**Today's Progress**: Restarted personal website using Bootstrap
+
+**Thoughts**: Decided to give Bootstrap a try given its popularity in the field. Struggling most with figuring out what the new default styles are and how I can work around them, such as how to make the navbar fixed using Bootstrap. A few more days with this, and I imagine I'll begin getting the hang of it.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 29: June 17, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Began designing personal portfolio website
 
-**Thoughts**: 
+**Thoughts**: There seem to be so many options when beginning to design a website that it's hard to choose. Still struggling with the basic CSS – I imagine that it will just take bulding many websites to eventually become comfortable with it. At least now I feel like I know where to look and what to look for when I need a particular functionality.
 
-**Link to work**: 
+**Link to work**: https://github.com/brodyd795/personal-website
 
 ### Day 28: June 16, 2019
 
