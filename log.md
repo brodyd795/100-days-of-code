@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 32: June 21, 2019
+
+**Today's Progress**: Finished adding new functionality to my accounting app
+
+**Thoughts**: Now the app will add a new sheet on the first day of the month, duplicate the default sheet and rename it for the new month, and then continue with adding new transactions. So happy with the final product! Also (finally) took a few minutes to learn about "git clone" and pushing/pulling from the repo from different machines.
+
+**Link to work**: https://github.com/brodyd795/accounting
+
+### Day 32: June 20, 2019
+
+**Today's Progress**: Added "New Month" functionality to my accounting app
+
+**Thoughts**: I decided to take a break from web dev for a bit and cross off some items on my TODO list for my accounting app. Previously, I had to add a new sheet to my Google Spreadsheet for each new month and copy/paste the default layout. Spending a while learning how the API works in detail, but making great progress. Should be finished by tomorrow.
+
+**Link to work**: https://github.com/brodyd795/accounting
+
+### Day 31: June 19, 2019
+
+**Today's Progress**: Continued working with Bootstrap on personal website
+
+**Thoughts**: Working with Bootstrap is getting a bit better, though still struggling to figure out how the default styles differ from using raw CSS. Finding more and more online resources to help me along with Bootstrap, which is very helpful.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 30: June 18, 2019
 
 **Today's Progress**: Restarted personal website using Bootstrap
