@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 34: June 24, 2019
+
+**Today's Progress**: Continued working on portfolio website
+
+**Thoughts**: Another relatively unproductive day working with Bootstrap. Finding it impossible to assemble a basic timeline while Bootstrap is still linked to the page, but I've used Bootstrap for everything thus far. Have looked for a way to remove default Bootstrap settings from a particular element, but can't seem to make that work either. Will need to do some more digging on this.
+
+**Link to work**: Coming soon!
+
+### Day 33: June 23, 2019
+
+**Today's Progress**: Continued working on portfolio website
+
+**Thoughts**: Having trouble getting bootstrap to place elements where I want them to go. Just seems like there are so many conflicts between CSS, CSS defaults, and Bootstrap defaults, and I hardly know where to look to find what to change. Pushing forward...
+
+**Link to work**: Coming soon!
+
 ### Day 32: June 21, 2019
 
 **Today's Progress**: Finished adding new functionality to my accounting app
