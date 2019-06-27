@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 36: June 26, 2019
+
+**Today's Progress**: Added typeit.js functionality to main portfolio site page, began designing my About section
+
+**Thoughts**: After experimenting with CSS, vanilla JS, etc., I found the TypeIt.js module for adding an animated typing effect to text. It works SO well. Goes to show how much value there is in searching for the right thing – a module vs. pure CSS, etc. Also began designing my About section on paper and thinking about how I could incorporate this within Bootstrap so that it's responsive. 
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 35: June 25, 2019
+
+**Today's Progress**: Got a functioning timeline on my portfolio site
+
+**Thoughts**: After much messing around, I finally found a timeline template that fits my site well, and I was able to start customizing it within bootstrap. I've learned that I need to search only for templates/guides on incorporating features using the framework that I've chosen, otherwise they simply won't work.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 34: June 24, 2019
 
 **Today's Progress**: Continued working on portfolio website
