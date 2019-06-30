@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 38: June 28, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 38: June 28, 2019
+
+**Today's Progress**: Added Projects section to my portfolio site
+
+**Thoughts**: This was another section where Bootstrap was perfect. Found the Cards utility on W3Schools, and got that easily added to my site. Started working on customizing it with CSS.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 37: June 27, 2019
+
+**Today's Progress**: Added About section to my portfolio site
+
+**Thoughts**: It seems like Bootstraps grid system is designed for some features more than others. (Should a given page use Bootstrap for some sections, and not for other sections where it doesn't fit?) This section lent itself to Bootstrap much more than the main landing section, so it was nice to see how quickly/easily it came together. Slowly but surely Bootstrap is coming in handy!
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 36: June 26, 2019
 
 **Today's Progress**: Added typeit.js functionality to main portfolio site page, began designing my About section
