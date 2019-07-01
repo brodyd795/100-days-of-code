@@ -1,10 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 38: June 28, 2019
+### Day 41: July 1, 2019
 
 **Today's Progress**: 
 
 **Thoughts**: 
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 40: June 30, 2019
+
+**Today's Progress**: Continued making tweaks to different sections on portfolio site, looked into MySQL
+
+**Thoughts**: This site is really coming along! I'm glad to have learned bootstrap for this project – I seemed impossible at first for some reason (maybe I was going about it wrong?), but now it seems very helpful. I still feel like CSS is the hardest part of putting a website together, but that's coming along as well. Perhaps within a week or two I'll have this finished! On a random note, I started looking into MySQL in order to add an Attendance page to my course website. Trying to figure out whether SQL or a Google Sheet would be better/simpler (as I already have a good attendance tool in an Excel sheet). 
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 39: June 29, 2019
+
+**Today's Progress**: Added Contact section to portolio site with font-awesome social media icons
+
+**Thoughts**: Once again, Bootstrap felt 'right' for this section. However, while font-awesome seemed easy to integrate, I'm having a hard time getting them to size the way I want with the right font and background colors. Will keep looking into the CSS for this.
 
 **Link to work**: https://github.com/brodyd795/personal-website
 
