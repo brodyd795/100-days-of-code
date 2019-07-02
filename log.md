@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 41: July 1, 2019
+### Day 42: July 2, 2019
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link to work**: https://github.com/brodyd795/personal-website
+**Link to work**: 
+
+### Day 41: July 1, 2019
+
+**Today's Progress**: Worked on server configurations after scheduled maintenance
+
+**Thoughts**: There was scheduled maintenance done on my server that hosts my course website, and it appears that some configs were changed that resulted in the website going down. Started looking into how to fix the errors (Kdump service not allocated memory), but there's a lot I don't know and several possible solutions online that I'll work on trying out tomorrow.
+
+**Link to work**: None available, given that I was working in the terminal on my server
 
 ### Day 40: June 30, 2019
 
