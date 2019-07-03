@@ -2,11 +2,11 @@
 
 ### Day 42: July 2, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Fixed a bug in my server configs and began pushing a new feature to my course website
 
-**Thoughts**: 
+**Thoughts**: I've learned in the past to read through multiple solutions to a problem online (reading to the end) before trying any code in the terminal to fix a bug, so things went much smoother this time than some other times in the past. Found that the kdump service was being allocated "auto" memory, so I edited the config to a particular amount of memory, updated the configs to the boot directory, restarted the server and my node app, and it's working! Then I worked on pushing the Black Box feature to my website (finally), and I've learned that I need a far better method of maintaining development/production versions so I can easily push to production.
 
-**Link to work**: 
+**Link to work**: None available for the server work, and course website update coming soon!
 
 ### Day 41: July 1, 2019
 
