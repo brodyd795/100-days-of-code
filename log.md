@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 44: July 4, 2019
+
+**Today's Progress**: 
+
+**Thoughts**:
+
+**Link to work**: 
+
+### Day 43: July 3, 2019
+
+**Today's Progress**: Enabled firewalld, removed port number from URL, worked on fixing bugs on server
+
+**Thoughts**: Enabling firewalld was actually quite simple, contrary to what I expected. I also successfully removed the port number from most of the website by removing it from app.js and the Auth0 dashboard, but a bug came up with the port number still wanting to appear in the /logout route. Spent a while trying to figure this out, plus the fact that the website crashes when I try to access a new page on the website. So, more debugging tomorrow.
+
+**Link to work**: Unfortunately, the website is down at the moment while I work on these bugs.
+
 ### Day 42: July 2, 2019
 
 **Today's Progress**: Fixed a bug in my server configs and began pushing a new feature to my course website
