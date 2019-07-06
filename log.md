@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 45: July 5, 2019
+
+**Today's Progress**: Finished Contact section on portfolio site, began footer
+
+**Thoughts**: After enough messing around with forms and trying to center things the way I wanted them, I've finally got a working Contact section with a nice collabsible form. Moved into working on the footer, and can't seem to find a way to make a footer with absolute position in Bootstrap. So many examples of fixed or sticky footers, but can't find hardly anything on absolute positioning. Perhaps I'm searching for the wrong term? Will further investigate tomorrow.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 44: July 4, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Began adding a Contact section to my portfolio site
 
-**Thoughts**:
+**Thoughts**: Taking a while to figure out how forms work in Bootstrap (seems like nearly every feature can be translated into Bootstrap, assuming you know the right classes to add!), but slowly making progress. Hoping to complete the Contact section by tomorrow. Also got the Social icons looking nice!
 
-**Link to work**: 
+**Link to work**: https://github.com/brodyd795/personal-website
 
 ### Day 43: July 3, 2019
 
