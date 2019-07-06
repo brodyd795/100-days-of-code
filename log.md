@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 46: July 6, 2019
+
+**Today's Progress**: continued working on footer
+
+**Thoughts**: Still can't get the footer to align flush with the bottom of the page. Have tried margins, absolute/relative positioning, flexbox, etc. Nothing seems to align it correctly, so still investigating. Maybe I'll have more progress tomorrow.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 45: July 5, 2019
 
 **Today's Progress**: Finished Contact section on portfolio site, began footer
