@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 47: July 7, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
 ### Day 46: July 6, 2019
 
-**Today's Progress**: continued working on footer
+**Today's Progress**: Continued working on footer, fixed bugs in course website, began adding extra security feature to course website
 
-**Thoughts**: Still can't get the footer to align flush with the bottom of the page. Have tried margins, absolute/relative positioning, flexbox, etc. Nothing seems to align it correctly, so still investigating. Maybe I'll have more progress tomorrow.
+**Thoughts**: Still can't get the footer to align flush with the bottom of the page. Have tried margins, absolute/relative positioning, flexbox, etc. Nothing seems to align it correctly, so still investigating. Maybe I'll have more progress on this tomorrow. On the bright side, I managed to fix the bugs on my course website so that the whole site runs smoothly! The program was trying to print to the console even after I had disconnected from the ssh, causing the site to crash. I also (finally) added the whole project to github, so I can have better version control. Finally, I also began adding some further security measures with the dotenv package, though still working on making this perform properly. Productive day!
 
-**Link to work**: https://github.com/brodyd795/personal-website
+**Link to work**: https://github.com/brodyd795/personal-website, http://brody.linguatorium.com/
 
 ### Day 45: July 5, 2019
 
