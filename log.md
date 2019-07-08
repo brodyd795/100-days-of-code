@@ -2,11 +2,11 @@
 
 ### Day 47: July 7, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Worked on fixing bug from trying to add additional security measures
 
-**Thoughts**: 
+**Thoughts**: While trying to add the additional security measures, I managed to insert a bug somewhere in the program such that my email function no longer works. The POST request goes through, and no errors are written to the error log, yet the email is not sent. Spent a few hours looking into this today, and will hopefully resolve by tomorrow.
 
-**Link to work**: 
+**Link to work**: http://brody.linguatorium.com/
 
 ### Day 46: July 6, 2019
 
