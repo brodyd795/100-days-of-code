@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 49: July 10, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day 48: July 8, 2019
+
+**Today's Progress**: Fixed bugs on course website, began additional feature of choosing course for blackbox
+
+**Thoughts**: I had three bugs that I couldn't figure out how to resolve: (1) the logout page would direct me to an undefined domain, (2) a .json data file couldn't be found, and (3) occasionally when trying to start the site the app couldn't find the domain credentials in the .env file. It turned out that all three errors were due to starting the app with "forever" in the wrong directory, as the app couldn't find the .env file or the .json file. Once I had this resolved, the site worked perfectly. I've also begun adding a field to the blackbox page to select which course the student belongs to and adding that field into the subject line of an email sent to me anonymously, but the email call is not updating (keeps sending emails with the old subject line to one email address regardless of what I put in those parameters). Will resolve tomorrow hopefully. 
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 47: July 7, 2019
 
 **Today's Progress**: Worked on fixing bug from trying to add additional security measures
