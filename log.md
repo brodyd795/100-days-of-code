@@ -2,11 +2,11 @@
 
 ### Day 49: July 10, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Finished feature of choosing a course for blackbox, ran into bugs, resolved bugs
 
-**Thoughts**: 
+**Thoughts**: Interesting how many issues can only be resolved by restarting the server. The nodemailer call that I was running wouldn't update until I restarted the server, and at that point, the login call stopped working. I realized that I had left the quotation marks around some process.env.VARIABLES from when I was debugging and included the variables hard-coded. Naturally, removing the quotes didn't work until I restarted the server. Now it's all up and running! Tomorrow I'll rework the URL so that the site comes up at brody.linguatorium.com/120 rather than just brody.linguatorium.com. 
 
-**Link to work**: 
+**Link to work**: http://brody.linguatorium.com/
 
 ### Day 48: July 8, 2019
 
