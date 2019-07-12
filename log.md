@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 50: July 11, 2019
+
+**Today's Progress**: Removed old files, secured credentials, tried adding "120/" to URL
+
+**Thoughts**: Didn't add much new code today, but I took care of some smaller TODO items like removing old files and adding credentials to the .env file so I could push the rest of the files to github. I also tried adding "120/" into the URL so that I can reserve "brody.linguatorium.com" for my personal website later on, but without success. Will continue to work on this. I also want to log user submissions on the server, so will work on that tomorrow. 
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 49: July 10, 2019
 
 **Today's Progress**: Finished feature of choosing a course for blackbox, ran into bugs, resolved bugs
