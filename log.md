@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 51: July 12, 2019
+
+**Today's Progress**: Added feature to log all user submissions to course website
+
+**Thoughts**: Decided to add a feature to log all submissions that my students make on their assignments, thinking it would just take a few minutes to add. Naturally, it took a few hours, but I got to practice writing a bit more JS. I also began to wonder... is restarting the server after changing JS files really necessary, or could I just RESTART the Forever command? Might try out the next time I modify the JS code.
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 50: July 11, 2019
 
 **Today's Progress**: Removed old files, secured credentials, tried adding "120/" to URL
