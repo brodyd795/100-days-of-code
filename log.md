@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 54: July 16, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day 53: July 14, 2019
+
+**Today's Progress**: Began implementing pre-fill on form fields for user convenience
+
+**Thoughts**: Wasn't sure how to pre-fill form fields in the Pug template engine, but it seems like it'll be pretty easy and similar to pure HTML. I've worked out the logic for how/when to prefill by writing it in plain English first, and that seemed to be a pretty good strategy that I'll continue using in the future. About halfway done, I think.
+
+**Link to work**: http://brody.linguatorium.com/
+
+### Day 52: July 13, 2019
+
+**Today's Progress**: Worked on testing for quality assurance of course website
+
+**Thoughts**: Worked with a colleague to determine lingering flaws and areas for improvement in the code of my course website. He suggested that I pre-fill some form fields with the user's previous response for user convenience, so I began considering how this could be accomplished. Will begin working to implement this feature tomorrow. Also beginning to think about style changes to make the site more appealing.
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 51: July 12, 2019
 
 **Today's Progress**: Added feature to log all user submissions to course website
