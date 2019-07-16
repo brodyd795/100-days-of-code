@@ -2,11 +2,11 @@
 
 ### Day 54: July 16, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Pre-filled the code field, working on dropdown field
 
-**Thoughts**: 
+**Thoughts**: Got to work with Pug templates again today (it's been a while!). Had an interesting bug where the value attribute of a textarea would appear in the Chrome inspector tool but not in the actual window. Tried copy/pasting into a plain HTML document (same result) and looking at the source code in the browser. Finally dawned on me that perhaps textareas don't have a value attribute – and they don't! Very easy fix to render the variable between the textarea tags. However, I'm struggling to implement the pre-filling in the dropdown menu. I've tried a few solutions online, but to no avail yet. I'm thinking that JS in the Pug template might lead me to the right answer. We'll see tomorrow!
 
-**Link to work**: 
+**Link to work**: http://brody.linguatorium.com/
 
 ### Day 53: July 14, 2019
 
