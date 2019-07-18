@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 55: July 17, 2019
+
+**Today's Progress**: Pre-filled dropdown field, trimmed whitespace from user input, cleaned code
+
+**Thoughts**: Productive hour of coding! I fixed the pre-fill dropdown field (way easier than I thought...), trimmed the whitespace from user input to prevent errors from occurring, and went through some code and added comments and removed old code. One of those feel-good days.
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 54: July 16, 2019
 
 **Today's Progress**: Pre-filled the code field, working on dropdown field
