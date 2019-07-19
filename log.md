@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 56: July 18, 2019
+
+**Today's Progress**: Updated styling of my course website
+
+**Thoughts**: Made some pretty simple styling changes to the course website, but then again, they were simple. If I were to restart the HTML and CSS of the project, I'd do things completely differently, probably with Bootstrap. Given that I designed the site while I was learning the very basics of HTML/CSS, the site is not responsive in the least, so this is something I might fix someday when I have some spare time. However, the purpose of the site doesn't necessitate responsiveness (though it'd be nice), since my students will be using the site in a laboratory setting using predictable computers and browsers. Always keeping the usage in mind!
+
+**Link to work**: http://brody.linguatorium.com/ and https://github.com/brodyd795/ling120-course-website
+
 ### Day 55: July 17, 2019
 
 **Today's Progress**: Pre-filled dropdown field, trimmed whitespace from user input, cleaned code
