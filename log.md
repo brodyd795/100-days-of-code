@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 59: July 21, 2019
+
+**Today's Progress**: Added logging feature to regex site, continued working on setting up new computer
+
+**Thoughts**: Looking down the road, I imagine students asking me for help on their regex assignment, me asking them what they've tried recently, and them not having a log. So, I quickly added the functionality in JS to log their score and the timestamp along with their attempt with every submit. Surprising how easy this was! I also managed to get the GUI on my computer to work after configuring the ethernet connection with dhclient, only to find that no terminal could be found in the GUI (to my knowledge). After installing gnome-terminal, the GUI no longer appears at all. More debugging to do.
+
+**Link to work**: http://brody.linguatorium.com/
+
+### Day 58: July 20, 2019
+
+**Today's Progress**: Continued styling of portfolio site, worked on setting up new-to-me computer
+
+**Thoughts**: I kept moving forward with my portfolio styling, and I'm beginning to wonder if I should start from scratch with Bootstrap, keeping the old version in front of me. I think this might make my code cleaner and more standardized, and it might help make things more responsive in the end. I'm still on the fence about this, but it might be worth dedicating an hour or two sometime to see if this would help. On another note, a family member gave me an old Dell with CentOS on it, so I started working on getting the GUI set up, though to no avail yet. Still having trouble getting it to recognize an internet connection.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 57: July 19, 2019
+
+**Today's Progress**: Continued styling of portolio site
+
+**Thoughts**: Slowly but surely getting things on my portfolio site looking the way I want them. Styling continues to be the hardest part of software development for me, but it's getting much better over time (judging by my progress over 57 days). Sometimes the Bootstrap defaults throw me off, so it takes a bit of debugging to figure out why, for example, the padding doesn't act the way I want it to. The Chrome dev tools have helped in these endeavors. 
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 56: July 18, 2019
 
 **Today's Progress**: Updated styling of my course website
