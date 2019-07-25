@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 62: July 24, 2019
+
+**Today's Progress**: Continued with styling on portfolio site
+
+**Thoughts**: Starting fresh was a good idea. I'm really noticing some major styling issues that were causing non-responsiveness, and I've solved many issues just on the landing page. Still working with font sizes and trying to make everything responsive to all devices, but I also think that this is something that I'll need to work on over time. So, just trying to get it as responsive as I can in the moment, then move on to another element. With styling, I've found that a good night's sleep can do wonders, as with much other code. Read something similar to this on Twitter today with the great #100DaysOfCode community there.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 61: July 23, 2019
+
+**Today's Progress**: Continued with styling on portfolio site
+
+**Thoughts**: Struggling to make my site responsive, as I'm sure everyone does. Even with bootstrap, it's rather difficult, especially on the landing page. I thought that it may have to do with some of the layout of the elements (the overlay of the background image on the landing page), and I decided that it may be best to start fresh and work my way down the page, making sure everything is responsive as I go. So, I got started on that journey, with promising results so far.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 60: July 22, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
 ### Day 59: July 21, 2019
 
 **Today's Progress**: Added logging feature to regex site, continued working on setting up new computer
