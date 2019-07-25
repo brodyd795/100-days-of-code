@@ -12,17 +12,17 @@
 
 **Today's Progress**: Continued with styling on portfolio site
 
-**Thoughts**: Struggling to make my site responsive, as I'm sure everyone does. Even with bootstrap, it's rather difficult, especially on the landing page. I thought that it may have to do with some of the layout of the elements (the overlay of the background image on the landing page), and I decided that it may be best to start fresh and work my way down the page, making sure everything is responsive as I go. So, I got started on that journey, with promising results so far.
+**Thoughts**: Kept working with the styling in Bootstrap from scratch. Getting some good reminders about the Bootstrap fundamentals and flexbox. Also seeing the importance of not using px for font sizes but rather em and rem. 
 
 **Link to work**: https://github.com/brodyd795/personal-website
 
 ### Day 60: July 22, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Continued with styling on portfolio site
 
-**Thoughts**: 
+**Thoughts**: Struggling to make my site responsive, as I'm sure everyone does. Even with bootstrap, it's rather difficult, especially on the landing page. I thought that it may have to do with some of the layout of the elements (the overlay of the background image on the landing page), and I decided that it may be best to start fresh and work my way down the page, making sure everything is responsive as I go. So, I got started on that journey, with promising results so far.
 
-**Link to work**: 
+**Link to work**: https://github.com/brodyd795/personal-website
 
 ### Day 59: July 21, 2019
 
