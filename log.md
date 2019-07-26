@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 63: July 25, 2019
+
+**Today's Progress**: Worked on debugging a minified file for work, continued styling on portfolio site
+
+**Thoughts**: Tried to make a feature change on a minified JS file for a work-related task today, but without luck. I was able to track down the primary bit of code to delete the feature, but it seems that the code is connected to other places in the code that would take more time to track down that isn't worth the time. Good to have the experience working with minified files. Definitely helps to keep others from modifying the code. Also kept working on my portfolio's styling. Fixed an issue with a breakpoint and started looking into how to make font sizes responsive, which doesn't seem like an easy task, oddly enough.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 62: July 24, 2019
 
 **Today's Progress**: Continued with styling on portfolio site
