@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 65: July 27, 2019
+
+**Today's Progress**: Finished modifying JS file for work
+
+**Thoughts**: Looked into potential bug sent by supervisor, only to dismiss. Then wrote some instructions for my future self to follow along with so I can recreate the code adjustments with future videos. Happy with the final result!
+
+**Link to work**: Uncertain if the code is open source, so unable to share
+
+### Day 64: July 26, 2019
+
+**Today's Progress**: Worked on modifying JS file for work, nearly finished and sent product to supervisor
+
+**Thoughts**: Decided to continue working on the JS code to change the desired features. The code from a 3rd-party software is for an embedded video with automated quiz questions inside an LMS system. Through heavy use of the Chrome dev tools and trial/error, I was able to find ways to (1) remove a button that allows students to skip the quiz (you'd think the option to remove this button would be available in the software that creates the code...) and then adjust the margins, and (2) disable all rewind/fast forward/pausing abilities on the video. I was unable to find a way to disable pausing entirely since the video needs to call the pause whenever a quiz question appears, so I changed the keycode from SPACE to P, which won't be problematic since it's a multiple-choice quiz. Very happy with the final result, especially given the fact that it was minified code and with HTML embedded in JS functions. 
+
+**Link to work**: Uncertain if the code is open source, so unable to share
+
 ### Day 63: July 25, 2019
 
 **Today's Progress**: Worked on debugging a minified file for work, continued styling on portfolio site
