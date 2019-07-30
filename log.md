@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 66: July 29, 2019
+
+**Today's Progress**: Fixed bugs in old code – weather app and accounting app
+
+**Thoughts**: I sometimes wonder how other people store credentials to their code, because any time that I change a password, I have to remember what apps it pertains to and have to manually update the credentials within the app. Is there a better way to manage all of this? A couple of my app stopped working a while ago since I had changed a password, so I got those up and running again, I fixed a bug in the accounting app that allows it to work effectively with each new month, and I made the weather app a bit more secure by storing my credentials outside of the code. Not much heavy lifting today, but definitely necessary work.
+
+**Link to work**: https://github.com/brodyd795/weather-app AND https://github.com/brodyd795/accounting
+
 ### Day 65: July 27, 2019
 
 **Today's Progress**: Finished modifying JS file for work
