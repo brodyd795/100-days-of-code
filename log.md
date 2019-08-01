@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 68: July 31, 2019
+
+**Today's Progress**: Continued styling portfolio page – closer to done!
+
+**Thoughts**: Got my navbar looking a bit nicer on the correct side of the page, fixed some odd scrolling (margins/padding issue), moved some px measurements to responsive measurements, and more. Getting closer to a final product! Tomorrow I'll focus on getting this thing online, but that'll require some reconfiguration in my regex site code since the regex site is at brody.linguatorium.com where I want my personal site to appear. Happy with what I've got so far!
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
+### Day 67: July 30, 2019
+
+**Today's Progress**: Continued styling portfolio page
+
+**Thoughts**: Finished getting the rest of my old code from my previous version of the portfolio site onto the new version where I've been making simple styling changes and making it more responsive. Getting more familiar with techniques for making the page responsive, like staying away from px and instead using em/rem/vw/vh/etc. Keep on chugging.
+
+**Link to work**: https://github.com/brodyd795/personal-website
+
 ### Day 66: July 29, 2019
 
 **Today's Progress**: Fixed bugs in old code – weather app and accounting app
