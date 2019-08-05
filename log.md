@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+### Day 72: August 4, 2019
+
+**Today's Progress**: Basically done with my portfolio!
+
+**Thoughts**: Added my email functionality to my personal site, made the navbar a bit prettier, and worked on making final tweaks to styling. One tiny thing to fix tomorrow, a that's it for now!
+
+**Link to work**: http://brody.linguatorium.com
+
+### Day 71: August 3, 2019
+
+**Today's Progress**: Continued styling portfolio page
+
+**Thoughts**: Happy to be nearly finished with styling my page. Got my picture lined up right and found a few other things, including the navbar, to style up a bit. Sometimes seems like a never-ending process. Getting there!
+
+**Link to work**: http://brody.linguatorium.com
+
+### Day 70: August 2, 2019
+
+**Today's Progress**: Continued styling portfolio page
+
+**Thoughts**: Realized there was a fair bit of styling that I wanted done still, so I'll have to spend a few days on this. Struggling today with lining up a picture of myself with some text, so I'll start with that tomorrow. 
+
+**Link to work**: http://brody.linguatorium.com
+
+### Day 69: August 1, 2019
+
+**Today's Progress**: Got personal site up at correct URL
+
+**Thoughts**: Was able to get files onto my server easily enough, but moving things around so that my html file was rendered instead of pug files proved a bit more challenging. Shows the importance of keeping the same protocol across an entire site, because it would have been rough translating my entire html file into pug. Also saw the importance of trying to anticipate the scope of the project before starting, because my file system looks a bit odd now with subdirectories named 'brody' to indicate my personal site amongst the regex site. Got it all figured out though!
+
+**Link to work**: http://brody.linguatorium.com
+
 ### Day 68: July 31, 2019
 
 **Today's Progress**: Continued styling portfolio page – closer to done!
