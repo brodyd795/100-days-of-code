@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 73: August 5, 2019
+
+**Today's Progress**: Portfolio is done, up and running!
+
+**Thoughts**: Couldn't figure out why the "stretched-link" class in Bootstrap wouldn't work. Learned that it was due to the version of Bootstrap I was using, so I switched to the latest version through CDN and fixed that problem. Unfortunately, that also removed some borders on a few elements, but I was able to override that with !important. Added the final bit of content to my page, and now it's ready for the world to see! (Obviously still have some things I'll improve eventually, but I'm happy with this product for now.)
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 72: August 4, 2019
 
 **Today's Progress**: Basically done with my portfolio!
 
-**Thoughts**: Added my email functionality to my personal site, made the navbar a bit prettier, and worked on making final tweaks to styling. One tiny thing to fix tomorrow, a that's it for now!
+**Thoughts**: Added my email functionality to my personal site, made the navbar a bit prettier, and worked on making final tweaks to styling. Important to set margin and padding on the body to 0. One tiny thing to fix tomorrow!
 
 **Link to work**: http://brody.linguatorium.com
 
