@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 76: August 8, 2019
+
+**Today's Progress**: Continued with SQLite – made successful connection!
+
+**Thoughts**: 
+
+**Link to work**: https://github.com/brodyd795/ling120-course-website
+
+### Day 75: August 7, 2019
+
+**Today's Progress**: Continued with SQLite
+
+**Thoughts**: Today I was able to log the output of the SQLite error onto my page, and I see that the app is unable to find the table. I'm confident that the table exists, yet I'm finding no resources online to hint at why the table can't be found. Disheartening to not have made much of any progress, but just need to keep pushing through and problem solve to knock this bug out. Hopefully tomorrow will shed more light.
+
+**Link to work**: https://github.com/brodyd795/ling120-course-website
+
+### Day 74: August 6, 2019
+
+**Today's Progress**: Began working with SQLite to create an attendance tracking tool for my course website
+
+**Thoughts**: Started looking through tutorials and trying to create a sample database and open it from Node.js. Turning out to be a more difficult problem than I imagined, for some reason. Can't get a connection to the database, but will continue trying tomorrow. One accomplishment is having drawn out the design of the tool in terms of the UI and GET/POST requests, which was important and very helpful to conceptualize the project.
+
+**Link to work**: https://github.com/brodyd795/ling120-course-website
+
 ### Day 73: August 5, 2019
 
 **Today's Progress**: Portfolio is done, up and running!
