@@ -4,7 +4,7 @@
 
 **Today's Progress**: Continued with SQLite – made successful connection!
 
-**Thoughts**: 
+**Thoughts**: As is so often the cause of issues – a path bug. I still can't figure out why the relative path to my database doesn't work, but the absolute path resulted in a successful connection. This took several hours of troubleshooting, so I'm calling that a success for today. Will get started with working with the database tomorrow!
 
 **Link to work**: https://github.com/brodyd795/ling120-course-website
 
