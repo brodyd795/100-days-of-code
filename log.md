@@ -1,10 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 79: August 11, 2019
+
+**Today's Progress**: Continued with attendance-tracking tool - prototype ready!
+
+**Thoughts**: Regular expressions to the rescue, once again. So versatile. Continued making small changes to the formatting of the page to make things (1) more efficient and (2) prettier. This is basically ready for my students to use! Now I need to make the (more complicated) instructor side so that I can mark attendance on the spot easily. 
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 78: August 10, 2019
+
+**Today's Progress**: Continued with attendance-tracking tool - first successful pull of data onto page
+
+**Thoughts**: Had issues today with data types. Need more practice working with JSON objects in Javascript with the initial set of [] around the object, possibilities with stringify and parse, etc. Managed to get things converted into the necessary strings so I could work with them, and got some hard numbers on the site! Great progress today.
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 77: August 9, 2019
+
+**Today's Progress**: Continued with attendance-tracking tool
+
+**Thoughts**: Began the task of trying to pull data from the SQLite database for use in the attendance tool. Interesting to see how my conception of the database structure changes over time, even after I spent quite a while trying to foresee any difficulties and how those might affect the database structure. Nonetheless, happy things are moving forward. 
+
+**Link to work**: http://brody.linguatorium.com/120
+
 ### Day 76: August 8, 2019
 
 **Today's Progress**: Continued with SQLite – made successful connection!
 
-**Thoughts**: As is so often the cause of issues – a path bug. I still can't figure out why the relative path to my database doesn't work, but the absolute path resulted in a successful connection. This took several hours of troubleshooting, so I'm calling that a success for today. Will get started with working with the database tomorrow!
+**Thoughts**: As is so often the cause of issues – a path bug. I still can't figure out why the relative path to my database doesn't work, but the absolute path resulted in a successful connection. This took several hours of troubleshooting, so I'm calling that a success for today. Will get started working with the database tomorrow!
 
 **Link to work**: https://github.com/brodyd795/ling120-course-website
 
