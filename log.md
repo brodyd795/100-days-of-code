@@ -1,6 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 79: August 11, 2019
+### Day 80: August 11, 2019
+
+**Note**: Noticed I had two days of "Day 32", so added one day here.
 
 **Today's Progress**: Continued with attendance-tracking tool - prototype ready!
 
