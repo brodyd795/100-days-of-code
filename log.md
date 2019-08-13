@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 80: August 11, 2019
+### Day 82: August 13, 2019
 
 **Today's Progress**: 
 
@@ -8,19 +8,11 @@
 
 **Link to work**: http://brody.linguatorium.com/120
 
-### Day 80: August 11, 2019
-
-**Today's Progress**: Fixed bug in instructor side of attendance tool, continued onward
-
-**Thoughts**: Apparently in Javascript it is not permitted to declare a variable with 'var' (and possibly 'let' also?) within an if/else statement. This was not intuitive to me, so it took quite a while to figure out that the problem was there. Once I got that, I moved forward with rendering the SQLite results to my .pug file, where I finally managed to print it all out bit by bit with some JS code integrated into the html. Looking forward to continuing with this tomorrow!
-
-**Link to work**: http://brody.linguatorium.com/120
-
-### Day 80: August 11, 2019
+### Day 81: August 12, 2019
 
 **Today's Progress**: Began instructor side of attendance-tracking tool
 
-**Thoughts**: Began working on the instructor side. Things were off to a good start, but then I ran into a bug that I haven't been able to fix. Something in the logic is off, but I can't figure it out. Will have to start this part of the feature from scratch tomorrow to try to figure out where the bug lies.
+**Thoughts**: Began working on the instructor side. Things were off to a good start, but then I ran into a bug. Apparently in Javascript it is not permitted to declare a variable with 'var' (and possibly 'let' also?) within an if/else statement. This was not intuitive to me, so it took quite a while to figure out that the problem was there. Once I got that, I moved forward with rendering the SQLite results to my .pug file, where I finally managed to print it all out bit by bit with some JS code integrated into the html. Looking forward to continuing with this tomorrow!
 
 **Link to work**: http://brody.linguatorium.com/120
 
