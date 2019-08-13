@@ -2,6 +2,30 @@
 
 ### Day 80: August 11, 2019
 
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 80: August 11, 2019
+
+**Today's Progress**: Fixed bug in instructor side of attendance tool, continued onward
+
+**Thoughts**: Apparently in Javascript it is not permitted to declare a variable with 'var' (and possibly 'let' also?) within an if/else statement. This was not intuitive to me, so it took quite a while to figure out that the problem was there. Once I got that, I moved forward with rendering the SQLite results to my .pug file, where I finally managed to print it all out bit by bit with some JS code integrated into the html. Looking forward to continuing with this tomorrow!
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 80: August 11, 2019
+
+**Today's Progress**: Began instructor side of attendance-tracking tool
+
+**Thoughts**: Began working on the instructor side. Things were off to a good start, but then I ran into a bug that I haven't been able to fix. Something in the logic is off, but I can't figure it out. Will have to start this part of the feature from scratch tomorrow to try to figure out where the bug lies.
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 80: August 11, 2019
+
 **Note**: Noticed I had two days of "Day 32", so added one day here.
 
 **Today's Progress**: Continued with attendance-tracking tool - prototype ready!
