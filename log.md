@@ -2,11 +2,11 @@
 
 ### Day 82: August 13, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Significant progress with instructor end of attendance tool; also began process of working with Google Search Console to get my site in Google search results
 
-**Thoughts**: 
+**Thoughts**: Made some major improvements on the instructor end today. No major hiccups, which was probably the primary reason that I got so far. As expected, I continue to come across aspects of the feature that I didn't think of in my planning, but my planning phase is certainly improving over time. Happy to be getting some introductory practice with SQLite as well!
 
-**Link to work**: http://brody.linguatorium.com/120
+**Link to work**: http://brody.linguatorium.com/120/attendance
 
 ### Day 81: August 12, 2019
 
