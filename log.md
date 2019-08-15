@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 83: August 14, 2019
+
+**Today's Progress**: Completed attendance-tracking tool
+
+**Thoughts**: I completed the attendance tool! Took me just over a week. Learned the basics of SQLite and how it's integrated into Node.js throughout this mini-project. Got some decent practice with Javascript over the last couple of days, and learned two things from some particularly nasty bugs: (1) functions with callback functions cannot be called one after another with the assumption that the first will terminate in time for the second in a Node.js environment (I was doing this with two SQLite queries and kept getting a gateway error), and (2) quotation marks in SQLite queries matter (this prevented my query from going through). This portion of the site looks pretty ugly, so the next couple of days will have to be devoted to styling it up a bit. Happy with the progress!
+
+**Link to work**: http://brody.linguatorium.com/120/attendance
+
 ### Day 82: August 13, 2019
 
 **Today's Progress**: Significant progress with instructor end of attendance tool; also began process of working with Google Search Console to get my site in Google search results
