@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 84: August 15, 2019
+
+**Today's Progress**: Made BlackBox accessible only to students, began absence notification script
+
+**Thoughts**: Realized today that the anonymous messaging tool that I set up for my students is accessible to anyone on the Internet, so I switched it to be only available to students on my class roster. I was happy to see that this was a relatively easy fix, given the skills I've accrued with SQLite. I also decided to put off the styling on my site in favor of an absence notification script that will notify my students once they hit the maximum number of absences for their course. Getting pretty comfortable with JavaScript by this point in my 100 days!
+
+**Link to work**: http://brody.linguatorium.com/120/blackbox
+
 ### Day 83: August 14, 2019
 
 **Today's Progress**: Completed attendance-tracking tool
