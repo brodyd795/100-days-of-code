@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 85: August 17, 2019
+
+**Today's Progress**: Continued working on absence notification feature
+
+**Thoughts**: Need a reminder every once in a while to test my code periodically and not waiting until a "final product". Tested out the code when I thought it was done, and spent an hour tracking down the bug. I've got a while loop that contains a SQLite run call inside to update the database for each student, and it turns out that the while loop iterates and completely finishes all before the first db call can finish, resulting in a bad db call due to the asynchronous characteristic of node.js. Will need to think on this for a bit before making any changes, because this is the first time where I've had a bug due to async. 
+
+**Link to work**: http://brody.linguatorium.com/120/
+
+### Day 86: August 18, 2019
+
+**Today's Progress**: Continued working on absence notification feature
+
+**Thoughts**: Kept working on the JS for the absence notification feature with few difficulties, but was pretty tired at the end of the day, so will put off proofreading and testing until tomorrow when I'm fresh. Not much new learned today, but good to practice JS.
+
+**Link to work**: http://brody.linguatorium.com/120/
+
 ### Day 84: August 15, 2019
 
 **Today's Progress**: Made BlackBox accessible only to students, began absence notification script
