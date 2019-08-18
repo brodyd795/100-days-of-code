@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 85: August 17, 2019
+### Day 86: August 17, 2019
 
 **Today's Progress**: Continued working on absence notification feature
 
@@ -8,7 +8,7 @@
 
 **Link to work**: http://brody.linguatorium.com/120/
 
-### Day 86: August 18, 2019
+### Day 85: August 18, 2019
 
 **Today's Progress**: Continued working on absence notification feature
 
