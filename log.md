@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 86: August 17, 2019
+### Day 88: August 20, 2019
+
+**Today's Progress**: Finished absence notification feature
+
+**Thoughts**: It turned out that my intuition about the bug yesterday being due to the async nature of node was incorrect. Rather, there were issues with scope in my var/let variables (I need to learn the differences between these two better...) and with db.all/db.run for SQLite (I also need to read up on that documentation, it seems). Nonetheless, I tracked the bug down and got the feature finished! After a bit of testing and setting up a development environment (a long overdue project), the site will be ready for my students. Going live in 6 days!
+
+**Link to work**: https://github.com/brodyd795/ling120-course-website
+
+### Day 87: August 19, 2019
 
 **Today's Progress**: Continued working on absence notification feature
 
@@ -8,7 +16,15 @@
 
 **Link to work**: http://brody.linguatorium.com/120/
 
-### Day 85: August 18, 2019
+### Day 86: August 18, 2019
+
+**Today's Progress**: Got my new-used computer running and enabled parallax scrolling on personal site
+
+**Thoughts**: Took a break from my normal coding today to finishing getting my new-to-me laptop up and running with some bash code. In the meantime, a family member suggested I add parallax scrolling to my personal site, and it turned out to only need two well-placed lines of code to enable the functionality. Nice to change things up a bit.
+
+**Link to work**: http://brody.linguatorium.com/
+
+### Day 85: August 16, 2019
 
 **Today's Progress**: Continued working on absence notification feature
 
