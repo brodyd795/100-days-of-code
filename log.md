@@ -2,11 +2,11 @@
 
 ### Day 91: August 24, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Added message to portfolio site contact form, looked into bug with contact form a bit more
 
-**Thoughts**: 
+**Thoughts**: Still haven't figured out what is causing the "undefined" input fields in my contact form, but I've added a log for all form submissions so that should help me to track down the bug, or I'll need to learn the dev tools a bit more. I also added a message for when the contact form is submitted so that users know that it was successfully received. In the future I'd like to transition many of my POST requests to use ajax so that the page doens't have to reload.
 
-**Link to work**: 
+**Link to work**: http://brody.linguatorium.com/
 
 ### Day 90: August 23, 2019
 
