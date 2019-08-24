@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 91: August 24, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day 90: August 23, 2019
+
+**Today's Progress**: Fixed a few imperfections on personal site, began looking into bug with personal site contact form
+
+**Thoughts**: A friend suggested a few changes on my personal site, so I changed my resume and CV to .pdf for download and changed the hover color of my nav links. I've also seen a few instances of my contact form as returning undefined, so I began looking into the Chrome dev tools to investigate why Node is allowing undefined inputs.
+
+**Link to work**: http://brody.linguatorium.com/
+
+### Day 89: August 22, 2019
+
+**Today's Progress**: Began looking into creating a development environment
+
+**Thoughts**: I'v needed a dev environment for my site separate from my production environment since – well, since the beginning. So I began looking into how to create one. I've started by copying all of my files to my local machine and trying to re-configure everything to allow it to run on localhost in addition to the domain, but I've run into an issue with it not wanting to run SQLite. I'm reconsidering whether I want it to run on localhost or if I should create a subdomain for testing live online, but not sure how to go about this yet.
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 88: August 20, 2019
 
 **Today's Progress**: Finished absence notification feature
