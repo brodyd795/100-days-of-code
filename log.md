@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 92: August 25, 2019
+
+**Today's Progress**: Started (and almost completed) multilingual component of personal site
+
+**Thoughts**: Throughout my journey as a developer, I've learned that it's important to always look for multiple solutions to a problem before choosing one and implementing. I used this principle today when beginning the multilingual component of my personal website. Upon Googling the best way to implement this feature, I found various methods including a simple Google Translate option, API services for cloud-based translations, and finally the simplest option of a client-side JSON object with the different translations that are invoked onclick. Another thing I've learned (especially while I've yet to set up a dev environment) is to test out solutions in a plain HTML file prior to incorporating them into my own code. All of this today proved very useful, as I was able to get all the code developed for a multilingual site in minutes, including for the dynamically typed headings in my hero. (I also spent some time looking more into a dev environment.) Now I just need to translate my site in a JSON object, incorporate the code, work out the inevitable bugs, and I'm done!
+
+**Link to work**: http://brody.linguatorium.com/
+
 ### Day 91: August 24, 2019
 
 **Today's Progress**: Added message to portfolio site contact form, looked into bug with contact form a bit more
