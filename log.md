@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 95: August 28, 2019
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link to work**: 
+
+### Day 94: August 27, 2019
+
+**Today's Progress**: Worked more on course site design, continued debugging personal site form bug
+
+**Thoughts**: Having edited the code to log form data to a txt file, I got another buggy message today to help de-bug. However, it didn't say much (just "undefined" over and over again), so I inspected the Network tab in dev tools and figured out how to log req.body to the file instead. Hopefully that will give a bit more insight into why it allows undefined values to pass through the next time I get a buggy message. Also continued on the new course site design and got a div centered on the page for the main content. However, it is sometimes overlapped on particular devices by the drop-down navbar, so I'll need to make some changes there.
+
+**Link to work**: http://brody.linguatorium.com/120
+
+### Day 93: August 26, 2019
+
+**Today's Progress**: Started new design for course website with Bootstrap
+
+**Thoughts**: Since my course website was the first site I ever made with my new HTML/CSS skills, it's functional but not pretty. So, today I decided to make it look nicer by starting the design from scratch with Bootstrap. Got a nice photo backdrop with smoothly responsive nav links at the top, so it's a good start!
+
+**Link to work**: http://brody.linguatorium.com/120
+
 ### Day 92: August 25, 2019
 
 **Today's Progress**: Started (and almost completed) multilingual component of personal site
