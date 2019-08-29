@@ -2,11 +2,11 @@
 
 ### Day 95: August 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Continued course site design
 
-**Thoughts**: 
+**Thoughts**: Worked on two main issues today. (1) Worked on making main heading appear in center of page and adjust position when the nav drops down in mobile view. I eventually abandoned the complexity of this because I was using JS to measure elements heights on the nav toggler click, but this measures at the time of click, not at the time of full expansion. So, I settled for much simpler media queries and using viewport height to position the heading. (2) My body is not taking the full height and width of the page, and I'm not sure why yet. Will need to continue looking into this tomorrow.
 
-**Link to work**: 
+**Link to work**: http://brody.linguatorium.com/120-test
 
 ### Day 94: August 27, 2019
 
