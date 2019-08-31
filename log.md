@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 97: August 30, 2019
+
+**Today's Progress**: Got ReCaptcha fully functioning on localhost
+
+**Thoughts**: Found the perfect tutorial to walk me through the documentation and how to integrate it all into my code, and I get it working flawlessly on localhost! Tomorrow I hope to bring this over to my site so that I can stop getting spammed by all those bots....
+
+**Link to work**: Link available tomorrow for brody.linguatorium.com hopefully!
+
+### Day 96: August 29, 2019
+
+**Today's Progress**: Started working on integration of reCaptcha to keep bots away from portfolio site form
+
+**Thoughts**: Started looking for ways to keep bots off of my form, and I found one method of incorporating a checkbox with "I accept these terms and conditions" that is hidden from users but visible to bots. However, then a friend advised me to try ReCaptcha given its authority and good practice in the field, so I started looking into this option. Still trying to find a tutorial that fits my needs in addition to the documentation, but getting a good start.
+
+**Link to work**: No link available for this work yet, but coming soon!
+
 ### Day 95: August 28, 2019
 
 **Today's Progress**: Continued course site design
