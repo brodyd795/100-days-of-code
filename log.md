@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 97: August 30, 2019
+### Day 98: August 31, 2019
 
 **Today's Progress**: Started working on incorporating AJAX into my code in preparation for the ReCaptcha incorporation
 
