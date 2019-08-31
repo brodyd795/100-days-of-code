@@ -2,6 +2,14 @@
 
 ### Day 97: August 30, 2019
 
+**Today's Progress**: Started working on incorporating AJAX into my code in preparation for the ReCaptcha incorporation
+
+**Thoughts**: I realized today that my problem from a few weeks ago with wanting the page to scroll back to the form after posting to my portfolio site contact form was entirely the wrong way of thinking about it. Rather than posting and hoping to scroll back, I should really use AJAX so there's no page reload at all. So, before incorporating the working ReCaptcha code into my site, I decided to learn AJAX. However, I'm having some difficulties with getting the JSON to pass along to the server, so I'll continue working on this tomorrow. 
+
+**Link to work**: Still no link since no code is live...
+
+### Day 97: August 30, 2019
+
 **Today's Progress**: Got ReCaptcha fully functioning on localhost
 
 **Thoughts**: Found the perfect tutorial to walk me through the documentation and how to integrate it all into my code, and I get it working flawlessly on localhost! Tomorrow I hope to bring this over to my site so that I can stop getting spammed by all those bots....
