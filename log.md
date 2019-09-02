@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 100: September 2, 2019
+
+**Today's Progress**: ALMOST have Ajax and ReCaptcha working! and.... completed 100 Days of Code!
+
+**Thoughts**: Got everything working perfectly on my local machine, yet when I went to integrate it into my server, something broke down. Right now the req.body is turning up empty (which I've encountered before, so I'm sure I'll figure it out), but can't seem to figure out why. Once I solve that, though, everything should be in place for the form submission with ReCaptcha security to submit via AJAX! Plus, I'm so excited that I successfully completed my 100 days of code. It's incredible the amount that one can accomplish with 100 days of practice. I've learned about servers, HTTP, Javascript, Node.js, HTML, CSS, Google Auth, ReCaptcha, Linux machines, dynamic websites, SQLite databases, and so much more. It's been quite a journey, and it's a really great first step into the rest of my career as a developer. 
+
+**Link to work**: http://brody.linguatorium.com/
+
+### Day 99: September 1, 2019
+
+**Today's Progress**: Continued working on AJAX integration
+
+**Thoughts**: Getting closer to having a working version of the AJAX. Still not sure why it's not working, but I'm following along with a tutorial now, so hopefully something clicks tomorrow. 
+
+**Link to work**: Getting closer, so hopefully a link tomorrow!
+
 ### Day 98: August 31, 2019
 
 **Today's Progress**: Started working on incorporating AJAX into my code in preparation for the ReCaptcha incorporation
